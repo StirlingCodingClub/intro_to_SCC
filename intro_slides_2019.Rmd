@@ -1,0 +1,87 @@
+---
+title: "Welcome to coding club"
+author: "Brad Duthie"
+date: "04/09/2019"
+output: beamer_presentation
+---
+
+## 
+
+\includegraphics[height=0.8cm]{SCC_Logo_slide_sm.png}
+
+\noindent\makebox[\linewidth]{\rule{\paperwidth}{0.4pt}}
+
+**Stirling Coding Club exists for fun, informal meetups of friends and colleagues to share skills, stories, and ideas on using code for research, and exploring open research practices. Our goal is to create a friendly, no-pressure environment where people can share their work, ask for help on a coding problem, and learn and work together with their peers.**
+
+\noindent\makebox[\linewidth]{\rule{\paperwidth}{0.4pt}}
+
+## How coding club formed
+
+- University of Edinburgh created a [coding club](https://ourcodingclub.github.io/) of mainly ecology and environmental science students and researchers
+
+    - Multiple free tutorials
+    - Large team that meets regularly
+    - Several new groups formed \pause
+
+- [Tim Paine](https://www.une.edu.au/staff-profiles/ers/timothy-paine) used to run a semina[R] series \pause
+
+- Coding clubs work with [GitHub](http://github.com), a platform for storing code and collaborative coding \pause
+
+- We formed a club at the start of the semester last year
+
+## How things went last year
+
+- Meetings were regular, but topics were not planned far in advance
+
+- High variance for attendance to coding club sessions
+
+- Seemed to work well for some people, and less well for others?
+
+- Seemed to be a reluctance or uncertainty using GitHub to ask questions?
+
+## How to improve this year
+
+- Consider a second platform for interaction if GitHub is a barrier to entry? \pause
+
+- Plan sessions out more in advance so people can mark their calendars? \pause
+
+- Focus on coding, statistics, mathematical tools, or all of the above? \pause
+
+- Should there be a progression from fundamental to advanced topics, or a mix?
+
+## **Extremely** tentative schedule suggestion
+
+- 11 SEP: Introduction to GitHub (Brad) [old]
+- 18 SEP: General introduction to coding [new]
+- 25 SEP: Using version control (Brad) [old]
+- 02 OCT: Data management \& tidyverse (Anna & Matt) [old]
+- 09 OCT: Using loops in code (Brad) [old]
+- 16 OCT: Data types in R (John) [old]
+- 23 OCT: Randomisation methods in R (Brad) [old]
+- 30 OCT: Individual-based modelling (Brad) [old]
+- 06 NOV: Predicting GLMMs (Jeroen) [old]
+- 13 NOV: Writing functions in R (John) [old]
+- 20 NOV: Introduction to CSS (Rose) [old]
+- 27 NOV: Writing R packages (Brad) [old]
+- 04 DEC: Manuscripts in Rmarkdown (Brad) [old]
+- 11 DEC: Testing code (John and Brad) [old]
+
+## Potential new topics to include: 
+
+- Working in base R, key things to know
+
+- Producing nice plots in base R or ggplot
+
+- Crash course in a mathematical topic (e.g., calculus, matrices)
+
+- Crash course in a statistical topic (e.g., Maximum likelihood)
+
+- Introduction to a compiled language (e.g., C or C++)
+
+- Introduction to a popular R package (e.g., vegan)
+
+- Round table discussion on a coding or stats topic
+
+
+
+
